@@ -1,4 +1,41 @@
 p{
 color: gray;}
 p{
-  font-familyz: Calibri;}
+  font-family: Calibri;}
+ul{
+  color: purple;
+}
+ul{
+  border: 10px solid green;
+}
+ol{
+  text-transform: uppercase;
+}
+ol{
+  font-family: cursive;
+}
+h1{
+  color: lightgreen;
+}
+h1{
+  background-color: aqua;
+}
+}
+header{
+  color: cornflowerblue;
+}
+header{
+  font-family: Tahoma;
+}
+body{
+  color: gold;
+}
+body{
+ font-family: monospace; 
+}
+footer{
+  font: Palatino;
+}
+footer{
+  border: 2px solid gold;
+}
